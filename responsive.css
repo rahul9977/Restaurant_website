@@ -1,0 +1,225 @@
+@media screen and (min-width:300px) and (max-width:800px){
+    .body{
+        padding: 0px !important;
+    }
+    .sec1text{
+        height: 900px;
+    }
+    .ft2{
+        font-size: 2.1rem !important;
+    }
+    .s2ft4{
+        font-size: 1.7rem;
+        margin-bottom: 40px !important;
+    }
+    .main_2,.main_3,.main_5,.main_6,.footer1{
+        padding: 10px 10px !important;
+    }
+    .s2col2{
+        height: 500px;
+    }
+    .main_4{
+        padding: 10px 10px !important;
+        height: fit-content;
+    }
+    .sec4flex1{
+        width: fit-content;
+    }
+    .menuhead1,.pricetag,.menup1{
+        font-size: 0.9rem;
+        width: fit-content;
+    }
+    .sec4text1{
+        width: 250px;
+    }
+    .tabs1{
+        height: 100px;
+    }
+    .content1{
+        height: 750px !important;
+    }
+    .main_5{
+        text-align: center;
+    }
+    .sec5btn1{
+        height: 80px !important;
+        width: 80px !important;
+        top: 100px;
+        left: 170px;
+    }
+    .sec6p1{
+        margin-top: 10px !important;
+        margin-bottom: 8px !important;
+    }
+    .roundnext1{
+        display: none !important;
+    }
+    .revslide1{
+        height: 500px !important;
+    }
+   .s6ft2{
+       margin: 30px 10px !important;
+   }
+   .email1,.check1{
+       width: 320px !important;
+   }
+   .map_div1{
+       padding: 10px !important;
+       width: 280px;
+       height: 350px;
+       left: 75px;
+   }
+   .mapp1,.mapp2{
+       font-size: 0.7rem;
+       margin-bottom: 10px !important;
+   }
+   .maptext1{
+       height: 85px;
+   }
+   .footer1{
+       height: 1000px !important;
+   }
+   .footcol1{
+       margin: 15px 10px !important;
+       height: 240px !important;
+   }
+   .footerow1{
+      height: 1000px !important;
+   }
+   /* SHOP PAGE  */
+   .shopimg1{
+       height: 300px;
+   }
+   .shop_div2{
+       padding: 15px 15px;
+   }
+   .content12{
+       height: 1150px;
+   }
+   /* CONTACT US */
+   .contactdiv_1{
+       margin: 0px !important;
+       padding: 5px !important;
+       text-align: left;
+   }
+   .sec2rowab1{
+       margin: 20px 20px !important;
+       width: 360px !important;
+   }
+   .cntcol2,.csmap2{
+       height: 480px !important;
+   }
+   .hw12{
+       height: 550px;
+       width: 450px;
+       padding: 10px !important;
+       text-align: left !important;
+   }
+   .abp1{
+       font-size: 0.7rem;
+   }
+   .cntinp1,.rpin_div,.cnttext1{
+       width: 350px !important;
+   }
+   .s2ft2{
+       font-size: 1.5rem;
+   }
+   /* ABOUT PAGE */
+   .mainab1{
+       height: 550px !important;
+   }
+   .mainabdiv_11{
+       text-align: left !important;
+   }
+   .mainab2,.mainab3{
+       padding: 30px 10px;
+   }
+   .s2ft3{
+       font-size: 1rem;
+   }
+   .mainab3{
+       margin: 10px !important;
+   }
+   .pgsimg1,.pgsimg2,.pgsimg12,.pgsimg21{
+       height: 300px;
+       width: 280px;
+   }
+   .pgsimg2{
+       margin-left: 130px !important;
+   }
+   .mainab4{
+       padding: 20px 0px;
+   }
+   .overlay1{
+       left: 0px;
+   }
+   .mainab6{
+       padding: 10px 5px;
+   }
+   .teamain1{
+       margin: 10px 0px 10px 110px !important;
+       padding: 0px !important;
+   }
+   .abcr1{
+       margin: 0px 5px !important;
+       width: 350px !important;
+   }
+   .testidiv1{
+       padding: 0px !important;
+       margin: 0px !important;
+       width: fit-content !important;
+   }
+   .abbtn1{
+       display: none;
+   }
+   .abcs11{
+       height: 1100px !important;
+   }
+   .pgsimg21{
+       left: 120px;
+   }
+   /* BLOG PAGE */
+   .mainblog1{
+      width: 700px !important;
+      display: flex !important;
+      justify-content: left !important;
+      text-align: left !important;
+   }
+   .breadcrumb{
+       justify-content: left !important;
+   }
+   .mainblog2{
+       padding: 10px 10px;
+   }
+   .bgh1{
+       font-size: 1.5rem;
+       width: 750px !important;
+   }
+   .blogflex1{
+       width: 500px;
+   }
+   .sec5btn6{
+       height: 70px !important;
+       width: 70px !important;
+       top: 1320px;
+       left: 180px;
+   }
+   .bgcol1{
+       margin-left: 30px !important;
+   }
+   .bgnews1{
+       display: none;
+   }
+   .mainbg41{
+      margin-left: 30px;
+   }
+   .mainbg_div{
+       text-align: left !important;
+       padding: 0px !important;
+   }
+   
+   .blogp1{
+       width: 500px !important;
+       font-size: 1rem !important;
+   }
+}
